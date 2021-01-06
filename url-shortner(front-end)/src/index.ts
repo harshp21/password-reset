@@ -1,6 +1,6 @@
 import { UrlDetails } from './interfaces/url-details.interface';
 import { ResponseJson } from './interfaces/response-json.interface';
-let apiUrl: string = 'http://localhost:3000';
+let apiUrl: string = 'https://password-reset-url-shortner.herokuapp.com';
 
 // fetch all url details to display in table
 let fetchAllUrlDetails = async () => {
