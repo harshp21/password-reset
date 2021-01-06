@@ -46,7 +46,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
     }
 };
 Object.defineProperty(exports, "__esModule", ({ value: true }));
-var apiUrl = 'http://localhost:3000';
+var apiUrl = 'https://password-reset-url-shortner.herokuapp.com';
 // fetch all url details to display in table
 var fetchAllUrlDetails = function () { return __awaiter(void 0, void 0, void 0, function () {
     var urlDetails, urlDetailsJson, err_1;
